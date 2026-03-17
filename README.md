@@ -27,16 +27,10 @@ const CONFIG = {
     TARGET_LANG: 'zh-TW',  // 'zh-TW' 繁體 / 'zh-CN' 簡體
 };
 ```
+`GEMINI_API_KEY` 要填寫三次，搜索 `your` 可以發現。
 
 > 不填 API Key 也能用，會自動使用免費 Google Translate（較慢）。
 
 ## 支援網站
 
-任何使用 JW Player 播放器的網站，包括但不限於：
-- 6movies.art
-- aniwatchtv.to
-- 以及其他使用 JW Player 的影片網站
-
-## 授權
-
-MIT
+任何使用 JW Player 播放器的網站
